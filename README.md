@@ -1,12 +1,25 @@
 <div align="center">
-  
-# Hey there! I'm Yuvraj 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Computer+Engineering+Student+%F0%9F%8E%93;AI+%7C+Python+%7C+Systems+Developer+%F0%9F%92%BB;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80)](https://github.com/YuvrajGaykhe)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=220&section=header&text=Yuvraj%20Gaykhe&fontSize=80&fontAlignY=32&animation=twinkling&fontColor=ffffff&desc=Computer%20Engineering%20•%20AI%20•%20Python%20•%20Systems&descAlignY=65&descSize=20"/>
+<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=YuvrajGaykhe&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time;%F0%9F%8E%AF+First-Principles+Thinker+%7C+Problem+Solver;%F0%9F%92%A1+Turning+Ideas+into+Scalable+Systems;%E2%9A%A1+Learning+%7C+Building+%7C+Shipping)](https://github.com/YuvrajGaykhe)
+
+<br>
+
+<a href="https://www.linkedin.com/in/yuvraj-gaykhe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/YuvrajGaykhe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:yuvrajgaykhe@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YuvrajGaykhe&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/YuvrajGaykhe?style=for-the-badge&color=6C63FF&labelColor=1a1a2e&logo=github&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/YuvrajGaykhe?style=for-the-badge&color=6C63FF&labelColor=1a1a2e&logo=github&label=Stars" alt="Stars"/>
 
 </div>
+
 
 ---
 
@@ -15,14 +28,14 @@
 ### 🧑‍💻 About Me
 
 ```yaml
-name: Yuvraj Gaykhe
-location: Pune, India 🇮🇳
-education: B.E. Computer Engineering
-focus_areas:
+Name: Yuvraj Gaykhe
+Location: Pune, India 🇮🇳
+Education: B.E. Computer Engineering
+Focus_areas:
   - First-Principles Learning
   - Strong CS Fundamentals
   - Building Practical Systems
-current_status: Learning, Building, Shipping 🚀
+Current_status: Learning, Building, Shipping 🚀
 ```
 
 <br clear="right"/>
@@ -33,9 +46,9 @@ current_status: Learning, Building, Shipping 🚀
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-gaykhe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yuvraj-gaykhe-b97036296)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuvrajGaykhe)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajgaykhe@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajgaykhe.17@gmail.com)
 
 </div>
 
@@ -136,15 +149,7 @@ current_status: Learning, Building, Shipping 🚀
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YuvrajGaykhe&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/YuvrajGaykhe)
-
-</div>
-
----
 
 ## 🚀 Current Focus
 
