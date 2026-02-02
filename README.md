@@ -114,19 +114,18 @@ Current_status: Learning, Building, Shipping 🚀
 </details>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YuvrajGaykhe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=YuvrajGaykhe&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YuvrajGaykhe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=YuvrajGaykhe&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajGaykhe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajGaykhe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Top Languages" />
 
 </div>
 
