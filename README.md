@@ -25,7 +25,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 🧑‍💻 About Me
+###  About Me
 
 ```yaml
 Name: Yuvraj Gaykhe
@@ -35,7 +35,7 @@ Focus_areas:
   - First-Principles Learning
   - Strong CS Fundamentals
   - Building Practical Systems
-Current_status: Learning, Building, Shipping 🚀
+Current_status: Learning, Building, Shipping 
 ```
 
 <br clear="right"/>
@@ -46,7 +46,7 @@ Current_status: Learning, Building, Shipping 🚀
 ## 🛠️ Tech Arsenal
 
 <details open>
-<summary><b>☁️ Cloud, DevOps & Observability</b></summary>
+<summary><b> Cloud, DevOps & Observability</b></summary>
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -57,7 +57,7 @@ Current_status: Learning, Building, Shipping 🚀
 </details>
 
 <details open>
-<summary><b>👨‍💻 Programming Languages</b></summary>
+<summary><b> Programming Languages</b></summary>
 <br>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -68,7 +68,7 @@ Current_status: Learning, Building, Shipping 🚀
 </details>
 
 <details open>
-<summary><b>🤖 AI / ML & Data Science</b></summary>
+<summary><b> AI / ML & Data Science</b></summary>
 <br>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -81,7 +81,7 @@ Current_status: Learning, Building, Shipping 🚀
 </details>
 
 <details open>
-<summary><b>🗄️ Databases & Caching</b></summary>
+<summary><b> Databases & Caching</b></summary>
 <br>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -92,7 +92,7 @@ Current_status: Learning, Building, Shipping 🚀
 </details>
 
 <details open>
-<summary><b>🌐 Backend & Frameworks</b></summary>
+<summary><b> Backend & Frameworks</b></summary>
 <br>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -102,7 +102,7 @@ Current_status: Learning, Building, Shipping 🚀
 </details>
 
 <details>
-<summary><b>🧩 OS, Platforms & Tools</b></summary>
+<summary><b> OS, Platforms & Tools</b></summary>
 <br>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -114,41 +114,35 @@ Current_status: Learning, Building, Shipping 🚀
 </details>
 
 ---
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YuvrajGaykhe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&count_private=true" alt="GitHub Stats" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YuvrajGaykhe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=YuvrajGaykhe&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+<p align="center">
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YuvrajGaykhe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Top Languages" />
+</p>
 
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajGaykhe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YuvrajGaykhe&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/YuvrajGaykhe)
-
-</div>
-
+<p align="center">
+  <a href="https://github.com/YuvrajGaykhe">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuvrajGaykhe&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
+</p>
 ---
 
 
 
-## 🚀 Current Focus
+##  Current Focus
 
 <div align="center">
 
-| 🎯 Area | 📝 Details |
+|  Area |  Details |
 |:---:|:---|
-| **📚 CS Fundamentals** | DSA, Operating Systems, DBMS, Computer Networks |
-| **🐍 Python & AI** | Building clean, scalable AI systems |
-| **🛠️ Real-World Projects** | Exploring AI applications & shipping MVPs |
-| **☁️ Cloud Native** | Containerization, orchestration & infrastructure |
+|  CS Fundamentals | DSA, Operating Systems, DBMS, Computer Networks |
+|  Python & AI | Building clean, scalable AI systems |
+|  Real-World Projects | Exploring AI applications & shipping MVPs |
+|  Cloud Native | Containerization, orchestration & infrastructure |
 
 </div>
 
@@ -156,11 +150,11 @@ Current_status: Learning, Building, Shipping 🚀
 
 <div align="center">
 
-### 💡 *"First-principles thinking unlocks infinite possibilities."*
+###  *"First-principles thinking unlocks infinite possibilities."*
 
 <br>
 
-🤝 **Open to collaborating on AI, Python, and systems-focused projects**
+ **Open to collaborating on AI, Python, and systems-focused projects**
 
 If you find something useful here, consider giving it a ⭐!
 
